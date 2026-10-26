@@ -1,5 +1,7 @@
 # balatro-3ds
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7768428-6731-4e10-90f3-5bd32e987dec" />
+
 A fan port of [Balatro](https://www.playbalatro.com/) to the New Nintendo 3DS, written in C from the
 game's original Lua source. Not affiliated with LocalThunk or Playstack.
 
