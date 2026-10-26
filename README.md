@@ -2,6 +2,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7768428-6731-4e10-90f3-5bd32e987dec" />
 
+
 A fan port of [Balatro](https://www.playbalatro.com/) to the New Nintendo 3DS, written in C from the
 game's original Lua source. Not affiliated with LocalThunk or Playstack.
 
@@ -71,3 +72,9 @@ cmake -S src -B build -G Ninja && ninja -C build && ./build/balatro
 
 Beta. The full game runs on New 3DS hardware, with the top screen showing the play area and the
 bottom screen a 1:1 touch window. Known limits are listed in `src_3ds/PORTING_NOTES.md`.
+
+## Gallery
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451dcbed-0aa4-439d-96db-193ff4144d63" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06882c6b-7b49-4bb6-b793-fbff7bc7de5d" />
